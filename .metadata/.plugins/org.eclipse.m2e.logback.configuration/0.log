@@ -321,3 +321,10 @@
 2022-03-06 13:16:21,345 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@357cad47{/help,null,AVAILABLE}
 2022-03-06 13:16:21,766 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@76094fcd{HTTP/1.1, (http/1.1)}{127.0.0.1:62246}
 2022-03-06 13:16:21,817 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@7f2f5265{STARTING}[10.0.6,sto=0] @1442297ms
+2022-03-06 14:23:36,066 [Worker-28: Launching OctAMorningBatch_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-06 14:23:36,124 [Worker-28: Launching OctAMorningBatch_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\plram\Desktop\OctAMorningBatch\OctAMorningBatch\src\main\resources
+2022-03-06 14:23:36,127 [Worker-28: Launching OctAMorningBatch_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-06 14:23:36,127 [Worker-28: Launching OctAMorningBatch_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\plram\Desktop\OctAMorningBatch\OctAMorningBatch\src\test\resources
+2022-03-06 14:49:25,661 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@7f2f5265{STOPPING}[10.0.6,sto=0]
+2022-03-06 14:49:25,993 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@76094fcd{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-03-06 14:49:26,629 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@357cad47{/help,null,STOPPED}
